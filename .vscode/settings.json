@@ -1,0 +1,19 @@
+{
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.tslint": false,
+    "source.fixAll.eslint": true
+  },
+  "prettier.requireConfig": true,
+  "eslint.options": {
+    "extensions": [
+      ".ts"
+    ]
+  },
+  "eslint.validate": [
+    "typescript",
+    "typescriptreact"
+  ],
+  "editor.tabSize": 2,
+  "files.eol": "\n",
+}
